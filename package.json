@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "engines": {
-    "node": "v14.x",
+    "node": "v16.x.x",
     "npm": "8.2.0"
   },
   "scripts": {
